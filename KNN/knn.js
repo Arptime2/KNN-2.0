@@ -1,0 +1,1 @@
+//I want to be able to create a KNN (Object/class)
